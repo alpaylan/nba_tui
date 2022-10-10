@@ -1,0 +1,2372 @@
+[
+    {
+        "name": "Nikola Jokic",
+        "team": "DEN",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 1.2,
+        "round_avg": 1.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Giannis Antetokounmpo",
+        "team": "MIL",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 3.4,
+        "round_avg": 1.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 3.6,
+        "round_avg": 1.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Luka Doncic",
+        "team": "DAL",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 4.5,
+        "round_avg": 1.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Kevin Durant",
+        "team": "BKN",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 4.7,
+        "round_avg": 1.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Stephen Curry",
+        "team": "GSW",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 6.1,
+        "round_avg": 1.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 8.1,
+        "round_avg": 1.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "James Harden",
+        "team": "PHI",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 8.5,
+        "round_avg": 1.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Trae Young",
+        "team": "ATL",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 9.0,
+        "round_avg": 1.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Karl-Anthony Towns",
+        "team": "MIN",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 9.4,
+        "round_avg": 1.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "LaMelo Ball",
+        "team": "CHA",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 10.9,
+        "round_avg": 1.2,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Damian Lillard",
+        "team": "POR",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 15.1,
+        "round_avg": 1.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "LeBron James",
+        "team": "LAL",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 15.3,
+        "round_avg": 1.8,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Tyrese Haliburton",
+        "team": "IND",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 15.4,
+        "round_avg": 1.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Devin Booker",
+        "team": "PHX",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 16.2,
+        "round_avg": 2.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Kyrie Irving",
+        "team": "BKN",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 16.5,
+        "round_avg": 2.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Anthony Davis",
+        "team": "LAL",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 17.0,
+        "round_avg": 2.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Ja Morant",
+        "team": "MEM",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 18.8,
+        "round_avg": 2.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Anthony Edwards",
+        "team": "MIN",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 20.9,
+        "round_avg": 2.3,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Paul George",
+        "team": "LAC",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 21.1,
+        "round_avg": 2.3,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Dejounte Murray",
+        "team": "ATL",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 21.5,
+        "round_avg": 2.3,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Bam Adebayo",
+        "team": "MIA",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 22.1,
+        "round_avg": 2.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 24.0,
+        "round_avg": 2.5,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Domantas Sabonis",
+        "team": "SAC",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 24.1,
+        "round_avg": 2.6,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Kawhi Leonard",
+        "team": "LAC",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 25.8,
+        "round_avg": 2.7,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Fred VanVleet",
+        "team": "TOR",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 27.8,
+        "round_avg": 2.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Rudy Gobert",
+        "team": "MIN",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 28.1,
+        "round_avg": 2.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Darius Garland",
+        "team": "CLE",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 28.6,
+        "round_avg": 2.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Pascal Siakam",
+        "team": "TOR",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 29.0,
+        "round_avg": 3.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jimmy Butler",
+        "team": "MIA",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 29.0,
+        "round_avg": 3.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "DeMar DeRozan",
+        "team": "CHI",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 30.3,
+        "round_avg": 3.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 32.9,
+        "round_avg": 3.3,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Chris Paul",
+        "team": "PHX",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 35.2,
+        "round_avg": 3.5,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Bradley Beal",
+        "team": "WAS",
+        "position": [
+            "SG"
+        ],
+        "pick_avg": 35.3,
+        "round_avg": 3.5,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Nikola Vucevic",
+        "team": "CHI",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 35.8,
+        "round_avg": 3.6,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Deandre Ayton",
+        "team": "PHX",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 37.4,
+        "round_avg": 3.7,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Zion Williamson",
+        "team": "NOP",
+        "position": [
+            "PF"
+        ],
+        "pick_avg": 37.9,
+        "round_avg": 3.8,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jaylen Brown",
+        "team": "BOS",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 38.6,
+        "round_avg": 3.8,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Zach LaVine",
+        "team": "CHI",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 40.6,
+        "round_avg": 4.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Evan Mobley",
+        "team": "CLE",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 40.8,
+        "round_avg": 4.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Myles Turner",
+        "team": "IND",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 41.3,
+        "round_avg": 4.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jarrett Allen",
+        "team": "CLE",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 42.9,
+        "round_avg": 4.2,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jrue Holiday",
+        "team": "MIL",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 44.0,
+        "round_avg": 4.3,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 44.4,
+        "round_avg": 4.3,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "De'Aaron Fox",
+        "team": "SAC",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 46.1,
+        "round_avg": 4.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Shai Gilgeous-Alexander",
+        "team": "O_K_C",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 46.5,
+        "round_avg": 4.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Kristaps Porzingis",
+        "team": "WAS",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 47.3,
+        "round_avg": 4.6,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "CJ McCollum",
+        "team": "NOP",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 49.2,
+        "round_avg": 4.8,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Terry Rozier",
+        "team": "CHA",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 50.1,
+        "round_avg": 4.8,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Desmond Bane",
+        "team": "MEM",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 50.6,
+        "round_avg": 4.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Khris Middleton",
+        "team": "MIL",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 51.2,
+        "round_avg": 4.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jonas Valanciunas",
+        "team": "NOP",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 51.7,
+        "round_avg": 5.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Brandon Ingram",
+        "team": "NOP",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 51.8,
+        "round_avg": 5.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "John Collins",
+        "team": "ATL",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 59.1,
+        "round_avg": 5.6,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Tyrese Maxey",
+        "team": "PHI",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 59.2,
+        "round_avg": 5.6,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Christian Wood",
+        "team": "DAL",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 59.3,
+        "round_avg": 5.6,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Mikal Bridges",
+        "team": "PHX",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 60.7,
+        "round_avg": 5.7,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "OG Anunoby",
+        "team": "TOR",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 60.9,
+        "round_avg": 5.7,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Klay Thompson",
+        "team": "GSW",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 61.5,
+        "round_avg": 5.8,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Michael Porter Jr.",
+        "team": "DEN",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 63.6,
+        "round_avg": 5.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jusuf Nurkic",
+        "team": "POR",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 64.8,
+        "round_avg": 6.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Tobias Harris",
+        "team": "PHI",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 66.5,
+        "round_avg": 6.2,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jordan Poole",
+        "team": "GSW",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 66.6,
+        "round_avg": 6.2,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 67.1,
+        "round_avg": 6.3,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Julius Randle",
+        "team": "NYK",
+        "position": [
+            "PF"
+        ],
+        "pick_avg": 67.4,
+        "round_avg": 6.3,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 69.9,
+        "round_avg": 6.5,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Robert Williams",
+        "team": "BOS",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 70.3,
+        "round_avg": 6.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jalen Green",
+        "team": "HOU",
+        "position": [
+            "SG"
+        ],
+        "pick_avg": 72.1,
+        "round_avg": 6.7,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "D'Angelo Russell",
+        "team": "MIN",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 72.2,
+        "round_avg": 6.7,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jakob Poeltl",
+        "team": "SAS",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 72.4,
+        "round_avg": 6.7,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Paolo Banchero",
+        "team": "ORL",
+        "position": [
+            "PF"
+        ],
+        "pick_avg": 72.8,
+        "round_avg": 6.7,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Keldon Johnson",
+        "team": "SAS",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 74.0,
+        "round_avg": 6.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Tyler Herro",
+        "team": "MIA",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 74.5,
+        "round_avg": 6.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Clint Capela",
+        "team": "ATL",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 74.6,
+        "round_avg": 6.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Wendell Carter Jr.",
+        "team": "ORL",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 77.3,
+        "round_avg": 7.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Ben Simmons",
+        "team": "BKN",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 77.9,
+        "round_avg": 7.2,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jerami Grant",
+        "team": "POR",
+        "position": [
+            "PF"
+        ],
+        "pick_avg": 78.4,
+        "round_avg": 7.2,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Draymond Green",
+        "team": "GSW",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 78.6,
+        "round_avg": 7.2,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 78.7,
+        "round_avg": 7.2,
+        "draft_percent": "98%"
+    },
+    {
+        "name": "Buddy Hield",
+        "team": "IND",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 79.5,
+        "round_avg": 7.3,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Andrew Wiggins",
+        "team": "GSW",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 80.5,
+        "round_avg": 7.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 81.1,
+        "round_avg": 7.5,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Al Horford",
+        "team": "BOS",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 85.2,
+        "round_avg": 7.8,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Collin Sexton",
+        "team": "UTA",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 85.4,
+        "round_avg": 7.8,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Marcus Smart",
+        "team": "BOS",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 88.0,
+        "round_avg": 8.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Devin Vassell",
+        "team": "SAS",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 88.2,
+        "round_avg": 8.0,
+        "draft_percent": "97%"
+    },
+    {
+        "name": "Mitchell Robinson",
+        "team": "NYK",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 88.7,
+        "round_avg": 8.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Gary Trent Jr.",
+        "team": "TOR",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 91.1,
+        "round_avg": 8.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Saddiq Bey",
+        "team": "DET",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 91.8,
+        "round_avg": 8.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Russell Westbrook",
+        "team": "LAL",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 93.0,
+        "round_avg": 8.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "RJ Barrett",
+        "team": "NYK",
+        "position": [
+            "SF"
+        ],
+        "pick_avg": 93.4,
+        "round_avg": 8.5,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Herbert Jones",
+        "team": "NOP",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 94.6,
+        "round_avg": 8.5,
+        "draft_percent": "96%"
+    },
+    {
+        "name": "Brandon Clarke",
+        "team": "MEM",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 97.5,
+        "round_avg": 8.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Keegan Murray",
+        "team": "SAC",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 97.7,
+        "round_avg": 8.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Kyle Kuzma",
+        "team": "WAS",
+        "position": [
+            "PF"
+        ],
+        "pick_avg": 98.4,
+        "round_avg": 9.0,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "PJ Washington",
+        "team": "CHA",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 100.4,
+        "round_avg": 9.1,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Anfernee Simons",
+        "team": "POR",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 101.5,
+        "round_avg": 9.2,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jaren Jackson Jr.",
+        "team": "MEM",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 101.8,
+        "round_avg": 9.2,
+        "draft_percent": "99%"
+    },
+    {
+        "name": "Kyle Lowry",
+        "team": "MIA",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 102.4,
+        "round_avg": 9.3,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Bobby Portis",
+        "team": "MIL",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 102.7,
+        "round_avg": 9.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Ivica Zubac",
+        "team": "LAC",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 103.2,
+        "round_avg": 9.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Mo Bamba",
+        "team": "ORL",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 103.9,
+        "round_avg": 9.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Harrison Barnes",
+        "team": "SAC",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 105.1,
+        "round_avg": 9.5,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Lauri Markkanen",
+        "team": "UTA",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 105.1,
+        "round_avg": 9.5,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Tre Jones",
+        "team": "SAS",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 105.7,
+        "round_avg": 9.5,
+        "draft_percent": "94%"
+    },
+    {
+        "name": "Malcolm Brogdon",
+        "team": "BOS",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 107.7,
+        "round_avg": 9.7,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Kevin Porter Jr.",
+        "team": "HOU",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 110.0,
+        "round_avg": 9.9,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Miles Bridges",
+        "team": "CHA",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 113.3,
+        "round_avg": 10.3,
+        "draft_percent": "41%"
+    },
+    {
+        "name": "Isaiah Stewart",
+        "team": "DET",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 113.6,
+        "round_avg": 10.3,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "De'Anthony Melton",
+        "team": "PHI",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 113.9,
+        "round_avg": 10.2,
+        "draft_percent": "86%"
+    },
+    {
+        "name": "Gordon Hayward",
+        "team": "CHA",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 115.4,
+        "round_avg": 10.4,
+        "draft_percent": "100%"
+    },
+    {
+        "name": "Jabari Smith II",
+        "team": "HOU",
+        "position": [
+            "PF"
+        ],
+        "pick_avg": 117.2,
+        "round_avg": 10.6,
+        "draft_percent": "96%"
+    },
+    {
+        "name": "Alex Caruso",
+        "team": "CHI",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 117.5,
+        "round_avg": 10.5,
+        "draft_percent": "78%"
+    },
+    {
+        "name": "Lonzo Ball",
+        "team": "CHI",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 118.7,
+        "round_avg": 10.7,
+        "draft_percent": "65%"
+    },
+    {
+        "name": "Onyeka Okongwu",
+        "team": "ATL",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 118.8,
+        "round_avg": 10.7,
+        "draft_percent": "99%"
+    },
+    {
+        "name": "Bojan Bogdanovic",
+        "team": "DET",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 119.2,
+        "round_avg": 10.8,
+        "draft_percent": "99%"
+    },
+    {
+        "name": "Brook Lopez",
+        "team": "MIL",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 119.3,
+        "round_avg": 10.7,
+        "draft_percent": "99%"
+    },
+    {
+        "name": "Jarred Vanderbilt",
+        "team": "UTA",
+        "position": [
+            "PF"
+        ],
+        "pick_avg": 119.8,
+        "round_avg": 10.7,
+        "draft_percent": "93%"
+    },
+    {
+        "name": "Monte Morris",
+        "team": "WAS",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 120.7,
+        "round_avg": 10.8,
+        "draft_percent": "93%"
+    },
+    {
+        "name": "Norman Powell",
+        "team": "LAC",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 120.7,
+        "round_avg": 10.8,
+        "draft_percent": "99%"
+    },
+    {
+        "name": "Josh Hart",
+        "team": "POR",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 121.3,
+        "round_avg": 10.9,
+        "draft_percent": "99%"
+    },
+    {
+        "name": "John Wall",
+        "team": "LAC",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 122.3,
+        "round_avg": 11.0,
+        "draft_percent": "99%"
+    },
+    {
+        "name": "Isaiah Jackson",
+        "team": "IND",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 122.3,
+        "round_avg": 10.9,
+        "draft_percent": "79%"
+    },
+    {
+        "name": "Jalen Smith",
+        "team": "IND",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 122.4,
+        "round_avg": 10.9,
+        "draft_percent": "85%"
+    },
+    {
+        "name": "Spencer Dinwiddie",
+        "team": "DAL",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 122.8,
+        "round_avg": 11.0,
+        "draft_percent": "99%"
+    },
+    {
+        "name": "James Wiseman",
+        "team": "GSW",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 123.9,
+        "round_avg": 11.1,
+        "draft_percent": "88%"
+    },
+    {
+        "name": "Cole Anthony",
+        "team": "ORL",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 127.1,
+        "round_avg": 11.4,
+        "draft_percent": "99%"
+    },
+    {
+        "name": "Nicolas Claxton",
+        "team": "BKN",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 127.4,
+        "round_avg": 11.3,
+        "draft_percent": "92%"
+    },
+    {
+        "name": "Robert Covington",
+        "team": "LAC",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 128.3,
+        "round_avg": 11.5,
+        "draft_percent": "97%"
+    },
+    {
+        "name": "Steven Adams",
+        "team": "MEM",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 128.5,
+        "round_avg": 11.6,
+        "draft_percent": "89%"
+    },
+    {
+        "name": "Richaun Holmes",
+        "team": "SAC",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 128.9,
+        "round_avg": 11.7,
+        "draft_percent": "29%"
+    },
+    {
+        "name": "Dillon Brooks",
+        "team": "MEM",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 129.2,
+        "round_avg": 11.6,
+        "draft_percent": "96%"
+    },
+    {
+        "name": "Mike Conley",
+        "team": "UTA",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 129.3,
+        "round_avg": 11.6,
+        "draft_percent": "98%"
+    },
+    {
+        "name": "Jordan Clarkson",
+        "team": "UTA",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 130.0,
+        "round_avg": 11.6,
+        "draft_percent": "85%"
+    },
+    {
+        "name": "Dorian Finney-Smith",
+        "team": "DAL",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 130.3,
+        "round_avg": 11.7,
+        "draft_percent": "91%"
+    },
+    {
+        "name": "Bones Hyland",
+        "team": "DEN",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 130.4,
+        "round_avg": 11.6,
+        "draft_percent": "79%"
+    },
+    {
+        "name": "Cameron Johnson",
+        "team": "PHX",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 130.4,
+        "round_avg": 11.7,
+        "draft_percent": "91%"
+    },
+    {
+        "name": "Aaron Gordon",
+        "team": "DEN",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 132.1,
+        "round_avg": 11.9,
+        "draft_percent": "96%"
+    },
+    {
+        "name": "Jaden McDaniels",
+        "team": "MIN",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 133.9,
+        "round_avg": 11.9,
+        "draft_percent": "90%"
+    },
+    {
+        "name": "Jae Crowder",
+        "team": "PHX",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 134.0,
+        "round_avg": 11.7,
+        "draft_percent": "3%"
+    },
+    {
+        "name": "Jaden Ivey",
+        "team": "DET",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 134.1,
+        "round_avg": 12.0,
+        "draft_percent": "66%"
+    },
+    {
+        "name": "Kevon Looney",
+        "team": "GSW",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 134.3,
+        "round_avg": 11.8,
+        "draft_percent": "11%"
+    },
+    {
+        "name": "Andre Drummond",
+        "team": "CHI",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 134.6,
+        "round_avg": 11.8,
+        "draft_percent": "43%"
+    },
+    {
+        "name": "P.J. Tucker",
+        "team": "PHI",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 134.9,
+        "round_avg": 11.9,
+        "draft_percent": "3%"
+    },
+    {
+        "name": "Evan Fournier",
+        "team": "NYK",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 135.9,
+        "round_avg": 12.1,
+        "draft_percent": "62%"
+    },
+    {
+        "name": "Bogdan Bogdanovic",
+        "team": "ATL",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 136.1,
+        "round_avg": 12.2,
+        "draft_percent": "80%"
+    },
+    {
+        "name": "Otto Porter Jr.",
+        "team": "TOR",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 136.1,
+        "round_avg": 11.8,
+        "draft_percent": "2%"
+    },
+    {
+        "name": "Marvin Bagley III",
+        "team": "DET",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 136.2,
+        "round_avg": 12.1,
+        "draft_percent": "63%"
+    },
+    {
+        "name": "Kevin Love",
+        "team": "CLE",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 136.2,
+        "round_avg": 12.1,
+        "draft_percent": "54%"
+    },
+    {
+        "name": "Kyle Anderson",
+        "team": "MIN",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 136.3,
+        "round_avg": 12.6,
+        "draft_percent": "12%"
+    },
+    {
+        "name": "Isaiah Hartenstein",
+        "team": "NYK",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 136.4,
+        "round_avg": 12.1,
+        "draft_percent": "66%"
+    },
+    {
+        "name": "Chris Boucher",
+        "team": "TOR",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 136.4,
+        "round_avg": 12.2,
+        "draft_percent": "61%"
+    },
+    {
+        "name": "Precious Achiuwa",
+        "team": "TOR",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 136.5,
+        "round_avg": 12.1,
+        "draft_percent": "8%"
+    },
+    {
+        "name": "Johnny Davis",
+        "team": "WAS",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 136.5,
+        "round_avg": 11.8,
+        "draft_percent": "2%"
+    },
+    {
+        "name": "Jonathan Kuminga",
+        "team": "GSW",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 137.0,
+        "round_avg": 12.0,
+        "draft_percent": "31%"
+    },
+    {
+        "name": "JaVale McGee",
+        "team": "DAL",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 137.0,
+        "round_avg": 12.1,
+        "draft_percent": "53%"
+    },
+    {
+        "name": "Gary Payton II",
+        "team": "POR",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 137.0,
+        "round_avg": 12.0,
+        "draft_percent": "11%"
+    },
+    {
+        "name": "Caris LeVert",
+        "team": "CLE",
+        "position": [
+            "SG"
+        ],
+        "pick_avg": 137.3,
+        "round_avg": 12.3,
+        "draft_percent": "73%"
+    },
+    {
+        "name": "Pat Connaughton",
+        "team": "MIL",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 137.3,
+        "round_avg": 11.8,
+        "draft_percent": "2%"
+    },
+    {
+        "name": "Kelly Oubre Jr.",
+        "team": "CHA",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 137.6,
+        "round_avg": 12.2,
+        "draft_percent": "71%"
+    },
+    {
+        "name": "Duncan Robinson",
+        "team": "MIA",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 137.8,
+        "round_avg": 12.1,
+        "draft_percent": "5%"
+    },
+    {
+        "name": "Grant Williams",
+        "team": "BOS",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 138.0,
+        "round_avg": 12.3,
+        "draft_percent": "4%"
+    },
+    {
+        "name": "Grayson Allen",
+        "team": "MIL",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 138.1,
+        "round_avg": 12.1,
+        "draft_percent": "2%"
+    },
+    {
+        "name": "Patty Mills",
+        "team": "BKN",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 138.2,
+        "round_avg": 12.3,
+        "draft_percent": "2%"
+    },
+    {
+        "name": "Patrick Beverley",
+        "team": "LAL",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 138.5,
+        "round_avg": 12.5,
+        "draft_percent": "7%"
+    },
+    {
+        "name": "Alec Burks",
+        "team": "DET",
+        "position": [
+            "PG",
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 138.6,
+        "round_avg": 11.9,
+        "draft_percent": "2%"
+    },
+    {
+        "name": "Rui Hachimura",
+        "team": "WAS",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 139.1,
+        "round_avg": 12.3,
+        "draft_percent": "4%"
+    },
+    {
+        "name": "Seth Curry",
+        "team": "BKN",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 139.3,
+        "round_avg": 12.3,
+        "draft_percent": "17%"
+    },
+    {
+        "name": "Montrezl Harrell",
+        "team": "PHI",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 139.3,
+        "round_avg": 12.5,
+        "draft_percent": "12%"
+    },
+    {
+        "name": "Chris Duarte",
+        "team": "IND",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 139.4,
+        "round_avg": 12.4,
+        "draft_percent": "73%"
+    },
+    {
+        "name": "Matisse Thybulle",
+        "team": "PHI",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 139.4,
+        "round_avg": 12.4,
+        "draft_percent": "19%"
+    },
+    {
+        "name": "Obi Toppin",
+        "team": "NYK",
+        "position": [
+            "PF"
+        ],
+        "pick_avg": 139.5,
+        "round_avg": 12.2,
+        "draft_percent": "8%"
+    },
+    {
+        "name": "Tim Hardaway Jr.",
+        "team": "DAL",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 139.5,
+        "round_avg": 12.2,
+        "draft_percent": "23%"
+    },
+    {
+        "name": "Derrick Rose",
+        "team": "NYK",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 139.5,
+        "round_avg": 12.5,
+        "draft_percent": "3%"
+    },
+    {
+        "name": "Jalen Suggs",
+        "team": "ORL",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 139.6,
+        "round_avg": 12.7,
+        "draft_percent": "34%"
+    },
+    {
+        "name": "Mason Plumlee",
+        "team": "CHA",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 139.7,
+        "round_avg": 12.3,
+        "draft_percent": "3%"
+    },
+    {
+        "name": "Jalen Duren",
+        "team": "DET",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 139.8,
+        "round_avg": 12.2,
+        "draft_percent": "11%"
+    },
+    {
+        "name": "Tyus Jones",
+        "team": "MEM",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 139.9,
+        "round_avg": 12.4,
+        "draft_percent": "63%"
+    },
+    {
+        "name": "Victor Oladipo",
+        "team": "MIA",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 139.9,
+        "round_avg": 12.5,
+        "draft_percent": "16%"
+    },
+    {
+        "name": "Mark Williams",
+        "team": "CHA",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 139.9,
+        "round_avg": 12.3,
+        "draft_percent": "2%"
+    },
+    {
+        "name": "Jonathan Isaac",
+        "team": "ORL",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 140.0,
+        "round_avg": 12.8,
+        "draft_percent": "22%"
+    },
+    {
+        "name": "Joe Harris",
+        "team": "BKN",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 140.0,
+        "round_avg": 12.2,
+        "draft_percent": "12%"
+    },
+    {
+        "name": "Reggie Jackson",
+        "team": "LAC",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 140.1,
+        "round_avg": 12.5,
+        "draft_percent": "76%"
+    },
+    {
+        "name": "Derrick White",
+        "team": "BOS",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 140.1,
+        "round_avg": 12.7,
+        "draft_percent": "43%"
+    },
+    {
+        "name": "Thomas Bryant",
+        "team": "LAL",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 140.1,
+        "round_avg": 12.8,
+        "draft_percent": "9%"
+    },
+    {
+        "name": "Kentavious Caldwell-Pope",
+        "team": "DEN",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 140.1,
+        "round_avg": 12.3,
+        "draft_percent": "18%"
+    },
+    {
+        "name": "Chuma Okeke",
+        "team": "ORL",
+        "position": [
+            "PF"
+        ],
+        "pick_avg": 140.1,
+        "round_avg": 13.2,
+        "draft_percent": "8%"
+    },
+    {
+        "name": "Marcus Morris Sr.",
+        "team": "LAC",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 140.2,
+        "round_avg": 12.4,
+        "draft_percent": "4%"
+    },
+    {
+        "name": "Donte DiVincenzo",
+        "team": "GSW",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 140.3,
+        "round_avg": 13.5,
+        "draft_percent": "7%"
+    },
+    {
+        "name": "Kelly Olynyk",
+        "team": "UTA",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 140.5,
+        "round_avg": 13.0,
+        "draft_percent": "7%"
+    },
+    {
+        "name": "Dennis Schroder",
+        "team": "LAL",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 140.5,
+        "round_avg": 12.3,
+        "draft_percent": "3%"
+    },
+    {
+        "name": "Hassan Whiteside",
+        "team": "UTA",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 140.6,
+        "round_avg": 13.0,
+        "draft_percent": "3%"
+    },
+    {
+        "name": "Devonte' Graham",
+        "team": "NOP",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 140.7,
+        "round_avg": 13.2,
+        "draft_percent": "10%"
+    },
+    {
+        "name": "Damian Jones",
+        "team": "LAL",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 140.7,
+        "round_avg": 13.6,
+        "draft_percent": "7%"
+    },
+    {
+        "name": "Cameron Payne",
+        "team": "PHX",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 140.7,
+        "round_avg": 12.3,
+        "draft_percent": "2%"
+    },
+    {
+        "name": "Malik Beasley",
+        "team": "UTA",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 140.8,
+        "round_avg": 13.0,
+        "draft_percent": "16%"
+    },
+    {
+        "name": "Malik Monk",
+        "team": "SAC",
+        "position": [
+            "SG"
+        ],
+        "pick_avg": 140.8,
+        "round_avg": 12.5,
+        "draft_percent": "5%"
+    },
+    {
+        "name": "Immanuel Quickley",
+        "team": "NYK",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 141.1,
+        "round_avg": 12.4,
+        "draft_percent": "5%"
+    },
+    {
+        "name": "T.J. Warren",
+        "team": "BKN",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 141.1,
+        "round_avg": 13.0,
+        "draft_percent": "3%"
+    },
+    {
+        "name": "Jose Alvarado",
+        "team": "NOP",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 141.2,
+        "round_avg": 14.2,
+        "draft_percent": "5%"
+    },
+    {
+        "name": "Ayo Dosunmu",
+        "team": "CHI",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 141.6,
+        "round_avg": 12.5,
+        "draft_percent": "21%"
+    },
+    {
+        "name": "Jae'Sean Tate",
+        "team": "HOU",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 142.0,
+        "round_avg": 12.6,
+        "draft_percent": "37%"
+    },
+    {
+        "name": "Davion Mitchell",
+        "team": "SAC",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 142.1,
+        "round_avg": 12.5,
+        "draft_percent": "16%"
+    },
+    {
+        "name": "Markelle Fultz",
+        "team": "ORL",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 142.2,
+        "round_avg": 12.7,
+        "draft_percent": "72%"
+    },
+    {
+        "name": "Bennedict Mathurin",
+        "team": "IND",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 142.3,
+        "round_avg": 12.6,
+        "draft_percent": "48%"
+    },
+    {
+        "name": "T.J. McConnell",
+        "team": "IND",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 142.6,
+        "round_avg": 13.6,
+        "draft_percent": "8%"
+    },
+    {
+        "name": "Walker Kessler",
+        "team": "UTA",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 142.8,
+        "round_avg": 12.8,
+        "draft_percent": "15%"
+    },
+    {
+        "name": "Max Strus",
+        "team": "MIA",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 143.0,
+        "round_avg": 12.8,
+        "draft_percent": "3%"
+    },
+    {
+        "name": "De'Andre Hunter",
+        "team": "ATL",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 143.2,
+        "round_avg": 12.8,
+        "draft_percent": "61%"
+    },
+    {
+        "name": "Talen Horton-Tucker",
+        "team": "UTA",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 143.3,
+        "round_avg": 12.9,
+        "draft_percent": "2%"
+    },
+    {
+        "name": "Coby White",
+        "team": "CHI",
+        "position": [
+            "PG",
+            "SG"
+        ],
+        "pick_avg": 143.6,
+        "round_avg": 12.5,
+        "draft_percent": "3%"
+    },
+    {
+        "name": "Kevin Huerter",
+        "team": "SAC",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 143.7,
+        "round_avg": 12.6,
+        "draft_percent": "14%"
+    },
+    {
+        "name": "Daniel Gafford",
+        "team": "WAS",
+        "position": [
+            "C"
+        ],
+        "pick_avg": 143.8,
+        "round_avg": 12.9,
+        "draft_percent": "33%"
+    },
+    {
+        "name": "Kemba Walker",
+        "team": "DET",
+        "position": [
+            "PG"
+        ],
+        "pick_avg": 143.8,
+        "round_avg": 14.8,
+        "draft_percent": "4%"
+    },
+    {
+        "name": "Oshae Brissett",
+        "team": "IND",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 143.9,
+        "round_avg": 12.6,
+        "draft_percent": "2%"
+    },
+    {
+        "name": "Will Barton",
+        "team": "WAS",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 144.2,
+        "round_avg": 13.1,
+        "draft_percent": "39%"
+    },
+    {
+        "name": "Patrick Williams",
+        "team": "CHI",
+        "position": [
+            "PF"
+        ],
+        "pick_avg": 144.3,
+        "round_avg": 13.1,
+        "draft_percent": "30%"
+    },
+    {
+        "name": "Tari Eason",
+        "team": "HOU",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 144.5,
+        "round_avg": 13.6,
+        "draft_percent": "11%"
+    },
+    {
+        "name": "Bruce Brown",
+        "team": "DEN",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 147.1,
+        "round_avg": 13.1,
+        "draft_percent": "37%"
+    },
+    {
+        "name": "Isaiah Roby",
+        "team": "SAS",
+        "position": [
+            "PF",
+            "C"
+        ],
+        "pick_avg": 148.1,
+        "round_avg": 15.4,
+        "draft_percent": "4%"
+    },
+    {
+        "name": "Royce O'Neale",
+        "team": "BKN",
+        "position": [
+            "SG",
+            "SF"
+        ],
+        "pick_avg": 150.0,
+        "round_avg": 13.6,
+        "draft_percent": "9%"
+    },
+    {
+        "name": "Joe Ingles",
+        "team": "MIL",
+        "position": [
+            "SF",
+            "PF"
+        ],
+        "pick_avg": 150.8,
+        "round_avg": 18.5,
+        "draft_percent": "2%"
+    }
+]
